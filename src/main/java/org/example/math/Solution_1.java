@@ -29,7 +29,7 @@ import java.util.Map;
  * <p>
  * 进阶：你可以想出一个时间复杂度小于 O(n2) 的算法吗？
  */
-public class LeetCode_1 {
+public class Solution_1 {
 
     //O(n2)
     //用当前下标的数字和后边每一个数字进行相加比较，如果等于target 就符合条件。

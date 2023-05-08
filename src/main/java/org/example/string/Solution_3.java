@@ -3,7 +3,7 @@ package org.example.string;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LeetCode_3 {
+public class Solution_3 {
     /**
      * 核心思路
      * 1. 定义start,end两个指针, 通过移动指针的方式，计算指针间的距离，确定最大长度

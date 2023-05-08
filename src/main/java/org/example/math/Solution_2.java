@@ -21,7 +21,7 @@ import org.example.model.ListNode;
  * 输入：l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
  * 输出：[8,9,9,9,0,0,0,1]
  */
-public class LeetCode_2 {
+public class Solution_2 {
     /**
      *    核心思路:
      *       1. 要对2个链表同时进行遍历
